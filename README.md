@@ -15,7 +15,7 @@ git clone git@github.com:0hlov3/ghostty-config.git "${XDG_CONFIG_HOME:-$HOME/.co
 ### HTTPS
 
 ```shell
-git clone [https://github.com/nvim-lua/kickstart.nvim.git](https://github.com/0hlov3/ghostty-config.git) "${XDG_CONFIG_HOME:-$HOME/.config}"/ghostty
+git clone https://github.com/0hlov3/ghostty-config.git "${XDG_CONFIG_HOME:-$HOME/.config}"/ghostty
 ```
 
 ## Usage
