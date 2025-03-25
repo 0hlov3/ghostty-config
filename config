@@ -43,6 +43,9 @@
 # resize-overlay-duration = 4s 200ms
 #
 font-family = 'MesloLGS NF'
+cursor-style = block
+#cursor-style-blink = false
+#shell-integration-features = no-cursor
 copy-on-select = clipboard
 background-opacity = 0.9
 #theme = dark:catppuccin-frappe,light:catppuccin-latte
