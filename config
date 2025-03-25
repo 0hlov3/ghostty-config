@@ -45,3 +45,7 @@
 font-family = 'MesloLGS NF'
 copy-on-select = clipboard
 background-opacity = 0.9
+#theme = dark:catppuccin-frappe,light:catppuccin-latte
+#theme = dark:catppuccin-frappe,light:catppuccin-mocha
+theme = dark:cyberpunk,light:cyberpunk
+
