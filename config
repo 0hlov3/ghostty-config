@@ -47,8 +47,8 @@ cursor-style = block
 #cursor-style-blink = false
 #shell-integration-features = no-cursor
 copy-on-select = clipboard
+gtk-titlebar = false
 background-opacity = 0.9
 #theme = dark:catppuccin-frappe,light:catppuccin-latte
 #theme = dark:catppuccin-frappe,light:catppuccin-mocha
 theme = dark:cyberpunk,light:cyberpunk
-
